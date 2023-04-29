@@ -7,11 +7,11 @@ It is necessary to configure the get_keys.json file, which is located in the uti
 
 Applications that can be installed: 
 SSL: which uses CERTBOT technology to install SSL certificates for free for 30 days. Additionally, there will be a validator configured to reinstall the certificates once they have expired. 
-DNS: which configures your machine so that the domain points to your VPS (currently not functioning). 
-FTP: which allows you to install and configure FTP connection. 
-DB: which allows you to install databases, MYSQL, MARIADB. 
-APACHE: which installs a server to host your website. 
-NODEJS: which installs the latest available version of NodeJS and NPM.
+- DNS: which configures your machine so that the domain points to your VPS (currently not functioning). 
+- FTP: which allows you to install and configure FTP connection. 
+- DB: which allows you to install databases, MYSQL, MARIADB. 
+- APACHE: which installs a server to host your website. 
+- NODEJS: which installs the latest available version of NodeJS and NPM.
 
 It is necessary to provide the requested data for each of these applications; otherwise, leave them as they are. PLEASE do not leave fields blank as this may cause an error. 
 The most common data requested are: 
