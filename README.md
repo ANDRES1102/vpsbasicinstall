@@ -1,5 +1,5 @@
 # vpsbasicinstall
-Basic installer for a VPS for UBUNTU-LINUX (testing 20.04). 
+Basic installer for a VPS for UBUNTU-LINUX (tested 20.04). 
 
 You can install automatically by simply downloading the repository onto the VPS, including the init.sh file and the utils folder. 
 
@@ -15,11 +15,12 @@ Applications that can be installed:
 
 It is necessary to provide the requested data for each of these applications; otherwise, leave them as they are. PLEASE do not leave fields blank as this may cause an error. 
 The most common data requested are: 
-- the domain, 
-- public IP, 
-- usernames, 
-- passwords, - ports, 
-- the type of database to install, 
+- the domain
+- public IP 
+- usernames 
+- passwords 
+- ports
+- the type of database to install
 - email
 
 POV: if there is any data that is not recognized, please leave it as it is.
