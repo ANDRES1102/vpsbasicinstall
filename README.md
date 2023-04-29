@@ -1,5 +1,5 @@
 # vpsbasicinstall
-Basic installer for a VPS. 
+Basic installer for a VPS for UBUNTU-LINUX (testing 20.04). 
 
 You can install automatically by simply downloading the repository onto the VPS, including the init.sh file and the utils folder. 
 
